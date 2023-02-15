@@ -5,7 +5,6 @@
 #include<stdlib.h>
 #include<string.h>
 #include<conio.h>
-#include<fstream.h>
 int status=0;
 void save();
 void filesave();
